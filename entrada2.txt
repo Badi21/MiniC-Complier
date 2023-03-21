@@ -1,0 +1,18 @@
+/************************
+ * Fichero de prueba nº 1
+ ************************/
+
+void prueba() {
+    const a =0, b=0;
+    var c = 10+2-2;
+    print "Inicio del programa\n";
+
+    if(a) print "Hola";
+
+    while(c){
+        while(a){
+            print "na";
+        }
+    }
+
+}

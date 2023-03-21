@@ -1,0 +1,19 @@
+/************************
+* Fichero de prueba nº 1
+************************/
+
+void prueba() {
+    
+    const b = 6 * 2;
+    var c;
+    var d = 6 + 1, e = 10 / 2;
+
+    print "Asignatura de Compiladores\n";
+
+    print "Introduce el valor de \"c\":\n";
+    read c;
+
+    if (c) print "\"c\" no era nulo.", "\n";
+        else print "\"c\" si era nulo.", "\n";
+}
+

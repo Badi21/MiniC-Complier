@@ -1,0 +1,18 @@
+/************************
+* Fichero de prueba nº 1
+************************/
+
+void prueba() {
+    
+    var a;
+    var i = 0;
+    var j = 1;
+    read a;
+
+    while (j) {
+        if (a) print "El valor actual de i es",i,"\n";
+        i = i + 1;
+        j = 0;
+    }
+    print "Este es el codigo\n";
+}
